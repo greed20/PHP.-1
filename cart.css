@@ -1,0 +1,14 @@
+.order{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 14%;
+    margin-top: 20px;
+}
+.heading {
+    padding-top: 32px;
+    font-size: 36px;
+    text-align: center;
+    font-weight: 300;
+    line-height: 46px;
+    letter-spacing: 0.05em;
+}
